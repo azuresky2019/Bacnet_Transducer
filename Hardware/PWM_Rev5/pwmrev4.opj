@@ -1,0 +1,156 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\pwmrev4.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "PWMREV4.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (GATE_&_PIN_SWAP_Scope "0")
+    (GATE_&_PIN_SWAP_File_Name
+       "Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV4\PWMREV4.SWP")
+    (Backannotation_TAB "1")
+    (TRUE)
+    (TRUE)
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File "Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV4\PWMREV4.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Tolerance}\t{Part_Number}")
+    (BOM_Header
+       "Item\tQuantity\tReference\tValue\tPCB Footprint\tDescription\tTolerance\tPart_Number")
+    (BOM_Include_File
+       "Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV4\PWMREV4.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\pwmrev4.mnl"
+      (Type "LAYOUT Netlist File"))
+    (Sort User)
+    (File ".\pwmrev4.prp"
+      (Type "Report")
+      (DisplayName "PWMREV4.PRP"))
+    (File ".\pwmrev4.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON1
+      (FullPartName "CON1.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("RESISTOR VAR"
+      (FullPartName "RESISTOR VAR.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (STM32F030C8T6
+      (FullPartName "STM32F030C8T6.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\IC.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SN65HVD3082
+      (FullPartName "SN65HVD3082.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\IC.OLB")
+      (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (4P_packet
+      (FullPartName "4P_packet.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (BDB01A
+      (FullPartName "BDB01A.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (FUSE
+      (FullPartName "FUSE.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (testpoit
+      (FullPartName "testpoit.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("DIODE SCHOTTKY"
+      (FullPartName "DIODE SCHOTTKY.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (1N4007
+      (FullPartName "1N4007.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TS BI-DIR"
+      (FullPartName "DIODE TS BI-DIR.Normal")
+      (LibraryName "Z:\DESIGNS\LIB\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (AT89C52/LCC_1
+      (FullPartName "AT89C52/LCC_1.Normal")
+      (LibraryName "Z:\DESIGNS\TSTATBENNY\REV4\MODULE\BENNYMODULEREV4.DSN")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 472"))
+      (Tab 0)))
+  (MPSSessionName "Administrator")
+  (ISPCBBASICLICENSE "false"))

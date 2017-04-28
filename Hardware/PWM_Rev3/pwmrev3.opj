@@ -1,0 +1,68 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\pwmrev3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\pwmrev3.dsn")
+      (Path "Design Resources" ".\pwmrev3.dsn" "Main")
+      (Path "Design Resources" ".\pwmrev3.dsn" "Inputs")
+      (Path "Design Resources" ".\pwmrev3.dsn" "Outputs")
+      (Select "Design Resources" ".\pwmrev3.dsn" "Main" "Power"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 487"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1525 175 700")
+        (Scroll "870 0")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path "Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV3\PWMREV3.DSN")
+      (Schematic "Main")
+      (Page "Modular8in8out"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 200 1550 200 725")
+        (Scroll "647 291")
+        (Zoom "140")
+        (Occurrence "/"))
+      (Path "Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV3\PWMREV3.DSN")
+      (Schematic "Main")
+      (Page "Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 225 1575 225 750")
+        (Scroll "-296 -2")
+        (Zoom "47")
+        (Occurrence "/OUTPUTS"))
+      (Path "Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV3\PWMREV3.DSN")
+      (Schematic "Outputs")
+      (Page "OUTPUTS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 225 1325 225 716")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/INPUTS"))
+      (Path "Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV3\PWMREV3.DSN")
+      (Schematic "Inputs")
+      (Page "INPUTS")))
+  (MPSSessionName "Administrator"))

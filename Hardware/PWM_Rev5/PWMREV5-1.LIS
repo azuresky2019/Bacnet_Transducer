@@ -1,0 +1,155 @@
+AutoECO Report
+FILE-A: Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV5\PWMREV5.MAX
+FILE-B: Z:\DESIGNS\TRANSDUCERVOLTS\HARDWARE\PWM_REV5\PWMREV5.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package RESISTOR_VAR
+Adding package STM32F030C8T6
+Adding component R60
+Adding component C30
+Adding component R61
+Adding component D58
+Adding component C28
+Adding component J10
+Adding component R62
+Adding component D30
+Adding component D55
+Adding component D31
+Adding component D61
+Adding component C31
+Adding component D59
+Adding component R64
+Adding component D32
+Adding component D35
+Adding component C29
+Adding component D56
+Adding component D60
+Adding component D34
+Adding component C27
+Adding component R59
+Adding component D33
+Adding component C32
+Adding component D57
+Adding component R63
+Adding net SWCLK
+Adding net SWDIO
+Adding net N16705364
+Adding net N16705490
+Adding net N16705584
+Adding net N16705866
+Adding net N16705772
+Adding net N16705678
+Deleting D11.1 from net +3.3V
+Deleting D12.1 from net +3.3V
+Deleting D13.1 from net +3.3V
+Deleting D14.1 from net +3.3V
+Deleting D15.1 from net +3.3V
+Deleting D17.1 from net +3.3V
+Deleting D16.1 from net +3.3V
+Adding J10.1 to net +3.3V
+Adding D57.1 to net +3.3V
+Adding D55.1 to net +3.3V
+Adding D56.1 to net +3.3V
+Adding D61.1 to net +3.3V
+Adding D60.1 to net +3.3V
+Adding D59.1 to net +3.3V
+Adding D58.1 to net +3.3V
+Adding R64.2 to net AGND
+Adding R62.2 to net AGND
+Adding R63.2 to net AGND
+Adding R59.2 to net AGND
+Adding R60.2 to net AGND
+Adding R61.2 to net AGND
+Deleting C11.2 from net GND
+Deleting C10.2 from net GND
+Deleting C8.2 from net GND
+Deleting C7.2 from net GND
+Deleting C6.2 from net GND
+Deleting C9.2 from net GND
+Adding J10.2 to net GND
+Adding C28.2 to net GND
+Adding C31.2 to net GND
+Adding SW3.3 to net GND
+Adding C27.2 to net GND
+Adding SW1.3 to net GND
+Adding SW6.3 to net GND
+Adding SW5.3 to net GND
+Adding C32.2 to net GND
+Adding C30.2 to net GND
+Adding C29.2 to net GND
+Adding SW4.3 to net GND
+Adding SW2.3 to net GND
+Deleting R7.1 from net IN1
+Adding D30.1 to net IN1
+Deleting R8.1 from net IN2
+Adding D31.1 to net IN2
+Deleting R9.1 from net IN3
+Adding D32.1 to net IN3
+Deleting R10.1 from net IN4
+Adding D33.1 to net IN4
+Deleting R11.1 from net IN5
+Adding D34.1 to net IN5
+Deleting R12.1 from net IN6
+Adding D35.1 to net IN6
+Deleting D11.2 from net N3806536
+Adding D55.2 to net N3806536
+Deleting D13.2 from net N3806564
+Adding D57.2 to net N3806564
+Deleting D14.2 from net N3806572
+Adding D58.2 to net N3806572
+Deleting D16.2 from net N3806576
+Adding D60.2 to net N3806576
+Deleting D12.2 from net N3806580
+Adding D56.2 to net N3806580
+Deleting D15.2 from net N3806588
+Adding D59.2 to net N3806588
+Deleting D17.2 from net N3808367
+Adding D61.2 to net N3808367
+Adding R59.1 to net N16705322
+Adding R60.1 to net N16705432
+Adding R61.1 to net N16705526
+Adding R62.1 to net N16705620
+Adding R63.1 to net N16705730
+Adding R64.1 to net N16705808
+Deleting C11.1 from net N16721541
+Adding C28.1 to net N16721541
+Deleting C6.1 from net N16721713
+Adding C29.1 to net N16721713
+Deleting C10.1 from net N16722135
+Adding C27.1 to net N16722135
+Deleting C7.1 from net N16722509
+Adding C30.1 to net N16722509
+Deleting C8.1 from net N16723387
+Adding C31.1 to net N16723387
+Deleting C9.1 from net N16723751
+Adding C32.1 to net N16723751
+Adding J10.4 to net SWCLK
+Adding U4.34 to net SWCLK
+Adding J10.3 to net SWDIO
+Adding U4.37 to net SWDIO
+Adding R7.1 to net N16705364
+Adding D30.2 to net N16705364
+Adding R8.1 to net N16705490
+Adding D31.2 to net N16705490
+Adding R9.1 to net N16705584
+Adding D32.2 to net N16705584
+Adding R12.1 to net N16705866
+Adding D35.2 to net N16705866
+Adding R11.1 to net N16705772
+Adding D34.2 to net N16705772
+Adding R10.1 to net N16705678
+Adding D33.2 to net N16705678
+Deleting component D17
+Deleting component D16
+Deleting component D15
+Deleting component D14
+Deleting component D13
+Deleting component D12
+Deleting component D11
+Deleting component C11
+Deleting component C10
+Deleting component C9
+Deleting component C8
+Deleting component C7
+Deleting component C6
+*EOF*
+No errors found
